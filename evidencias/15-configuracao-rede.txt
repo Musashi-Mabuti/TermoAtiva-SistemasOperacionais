@@ -1,0 +1,42 @@
+﻿
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : TERMOATIVA-SRV
+   Primary Dns Suffix  . . . . . . . : termoativa.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : termoativa.local
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) PRO/1000 MT Desktop Adapter
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d0fb:6337:44af:b828%7(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.10(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DNS Servers . . . . . . . . . . . : ::1
+                                       127.0.0.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) PRO/1000 MT Desktop Adapter #2
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : fd17:625c:f037:2:dcb7:a92b:8dd0:ce56(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::dcb7:a92b:8dd0:ce56%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.2.15(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : terça-feira, 17 de novembro de 2026 04:51:11
+   Lease Expires . . . . . . . . . . : quarta-feira, 18 de novembro de 2026 04:51:12
+   Default Gateway . . . . . . . . . : fe80::2%6
+                                       10.0.2.2
+   DHCP Server . . . . . . . . . . . : 10.0.2.2
+   DNS Servers . . . . . . . . . . . : ::1
+                                       127.0.0.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled

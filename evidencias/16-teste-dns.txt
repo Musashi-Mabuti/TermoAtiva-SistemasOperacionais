@@ -1,0 +1,16 @@
+﻿Server:  UnKnown
+Address:  ::1
+
+Name:    termoativa.local
+Addresses:  fd17:625c:f037:2:dcb7:a92b:8dd0:ce56
+	  10.0.2.15
+	  192.168.56.10
+
+Server:  UnKnown
+Address:  ::1
+
+Name:    TERMOATIVA-SRV.termoativa.local
+Addresses:  fd17:625c:f037:2:dcb7:a92b:8dd0:ce56
+	  192.168.56.10
+	  10.0.2.15
+

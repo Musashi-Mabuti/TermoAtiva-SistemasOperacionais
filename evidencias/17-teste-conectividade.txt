@@ -1,0 +1,11 @@
+﻿
+
+ComputerName     : 192.168.56.10
+RemoteAddress    : 192.168.56.10
+RemotePort       : 8080
+InterfaceAlias   : Ethernet
+SourceAddress    : 192.168.56.10
+TcpTestSucceeded : True
+
+
+
