@@ -2,6 +2,15 @@
 
 **Global Solution 2026.2 | FIAP | CitizenTech**
 
+## Equipe
+
+| Integrante | RM |
+|---|---|
+| Felipe Gimenes | 99799 |
+| Musashi Mabuti | 559444 |
+| Jonathan Henrique da Silva | 561139 |
+| Marcos Vinicius Gonçalves Santos | 560062 |
+
 ## 1. Sobre o projeto
 
 O TermoAtiva é uma solução voltada ao monitoramento de calor urbano, integrando dados de sensores, uma API REST e recursos de apoio à população em situações de calor intenso.
@@ -160,4 +169,5 @@ Os limites configurados representam condicoes de alerta, nao comprovacao de que 
 Evidencias adicionais:
 - evidencias/13-alertas-monitoramento.txt
 - evidencias/14-configuracao-alertas.txt
+- https://www.youtube.com/watch?v=c5xbZcQs384
 
