@@ -1,0 +1,51 @@
+﻿
+Name:                 TermoAtiva-Alerta-CPU
+Status:               Running
+Root Path:            C:\Monitoramento\TermoAtiva\
+Segment:              Off
+Schedules:            On
+Run as:               SYSTEM
+
+Name:                 TermoAtiva-Alerta-CPU\TermoAtiva-Alerta-CPU
+Type:                 Alert
+Sample Interval:      15 second(s)
+Event Log:            Off
+
+Thresholds:
+  \Processor(_Total)\% Processor Time>80
+
+The command completed successfully.
+
+Name:                 TermoAtiva-Alerta-Memoria
+Status:               Running
+Root Path:            C:\Monitoramento\TermoAtiva\
+Segment:              Off
+Schedules:            On
+Run as:               SYSTEM
+
+Name:                 TermoAtiva-Alerta-Memoria\TermoAtiva-Alerta-Memoria
+Type:                 Alert
+Sample Interval:      15 second(s)
+Event Log:            Off
+
+Thresholds:
+  \Memory\Available MBytes<500
+
+The command completed successfully.
+
+Name:                 TermoAtiva-Alerta-Disco
+Status:               Running
+Root Path:            C:\Monitoramento\TermoAtiva\
+Segment:              Off
+Schedules:            On
+Run as:               SYSTEM
+
+Name:                 TermoAtiva-Alerta-Disco\TermoAtiva-Alerta-Disco
+Type:                 Alert
+Sample Interval:      15 second(s)
+Event Log:            Off
+
+Thresholds:
+  \PhysicalDisk(_Total)\% Disk Time>90
+
+The command completed successfully.

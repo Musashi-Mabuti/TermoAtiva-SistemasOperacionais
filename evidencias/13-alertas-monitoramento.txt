@@ -1,0 +1,10 @@
+﻿
+Data Collector Set                      Type                          Status
+-------------------------------------------------------------------------------
+Server Manager Performance Monitor      Counter                       Stopped 
+TermoAtiva-Alerta-CPU                   Alert                         Running 
+TermoAtiva-Alerta-Disco                 Alert                         Running 
+TermoAtiva-Alerta-Memoria               Alert                         Running 
+TermoAtiva-Monitoramento                Counter                       Running 
+
+The command completed successfully.

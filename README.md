@@ -142,3 +142,22 @@ https://github.com/Musashi-Mabuti/TermoAtiva-SOA-WebServices
 ## 13. Contexto acadêmico
 
 Projeto desenvolvido para a Global Solution 2026.2 da FIAP, no contexto do desafio CitizenTech.
+
+## Monitoramento complementar - CPU, memoria e disco
+
+A infraestrutura utiliza o Monitor de Desempenho do Windows Server para coletar indicadores de CPU, memoria e atividade de disco a cada 15 segundos.
+
+Foram configurados os seguintes alertas:
+
+- CPU: utilizacao acima de 80%.
+- Memoria: disponibilidade inferior a 500 MB.
+- Disco: atividade superior a 90%, medida pelo contador PhysicalDisk(_Total)\% Disk Time.
+
+Os conjuntos TermoAtiva-Alerta-CPU, TermoAtiva-Alerta-Memoria, TermoAtiva-Alerta-Disco e TermoAtiva-Monitoramento foram verificados em execucao por meio do comando logman query.
+
+Os limites configurados representam condicoes de alerta, nao comprovacao de que essas condicoes ocorreram. O registro automatico dos alertas no Event Log permanece desativado.
+
+Evidencias adicionais:
+- evidencias/13-alertas-monitoramento.txt
+- evidencias/14-configuracao-alertas.txt
+
